@@ -9,4 +9,4 @@ Run **flask --app server run** in the web directory to launch an interactive web
 
 ## Example
 
-<img width="250" height="250" src="example recording.gif" alt="example recording" />
+<img width="400" height="400" src="example recording.gif" alt="example recording" />
