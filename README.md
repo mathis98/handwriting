@@ -9,4 +9,4 @@ Run **flask --app server run** in the web directory to launch an interactive web
 
 ## Example
 
-![](https://github.com/mathis98/handwriting/blob/main/example%20recording.gif=250x250)
+<img width="250" height="250" src="example recording.gif" alt="example recording" />
